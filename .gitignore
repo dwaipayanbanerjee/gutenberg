@@ -1,6 +1,7 @@
 # data and metadata folder and all subfolders and files recursive
 data/**/*
 metadata/**/*
+.DS_Store
 
 # metadata raw file
 #metadata/rdf-files.tar.bz2
@@ -109,3 +110,5 @@ ENV/
 
 # VScode
 .vscode/
+.DS_Store
+.DS_Store
